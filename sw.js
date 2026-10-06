@@ -1,5 +1,5 @@
 
-var DV_CACHE='dv-verse-v1';
+var DV_CACHE='dv-verse-v1.1';
 var DV_FILES=[
   './',
   './index.html',
